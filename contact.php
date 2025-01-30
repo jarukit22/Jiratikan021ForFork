@@ -15,9 +15,7 @@ tets
         <tr>asdaf
             <td width="1007" bgcolor="#FFFFFF">
                 <img src="images/map.gif">
-            </td>
-            <td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">หน้าแรก</li>sf
+            </td>php">หน้าแรก</li>sf
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
